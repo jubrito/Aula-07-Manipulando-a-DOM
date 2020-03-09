@@ -1,9 +1,24 @@
 img{
   width: 100px;
   padding: 30px;
+  display: table;
+  margin: 0 auto;
 }
 
 .controle {
   width: 300px;
   padding: 30px;
+}
+
+h1, p {
+  text-align: center;
+}
+
+.botoes {
+  display: table;
+  margin: 0 auto;
+}
+
+#gotico, #colorido {
+  margin: 5px;
 }
